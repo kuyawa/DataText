@@ -16,10 +16,10 @@ Here is some sample data:
 
 ### Screenshot:
 
-Here...
+![Screenshot](https://raw.githubusercontent.com/kuyawa/Gallery/master/DataText/Screenshot.jpg)
 
 ### ToDo:
 
-Finish schema editor to save col type, size, alignment and position.
+Finish schema editor to save column type, size, alignment and position.
 
 This data editor is awesome!
