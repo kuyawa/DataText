@@ -1,0 +1,31 @@
+TODO:
+
+- allow to rename column headers
+- allow to change column type and column alignment
+- save schema as .schema file and load if available
+- allow to open file from OS
+
+--------------------------------------------------
+
+
+x app Icon
+x select multiple rows
+x allow to add/remove columns, warn before removing cols unless empty col
+x cmd + add record
+x cmd - remove record
+x cmd D duplicate record
+x allow to add multiple records at once with some values
+x insert records
+x records will be deleted directly
+? add isDeleted field to every row
+? if isDeleted set row background to light gray
+? if isDeleted do not save record, skip it
+? first column should always be delete marker
+
+x file toolbar: new, open, save, duplicate
+~ table toolbar: add col, del col, schema editor
+x on update grid, update underlying records
+x table editor, allow to modify cells
+x new document: new table, four columns, one row
+x tableController class
+x readme

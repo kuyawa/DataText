@@ -1,0 +1,6 @@
+[     Id | Name                 | Phone            |      Salary |       Hired | Active ]
+[ ------ | -------------------- | ---------------- | ----------- | ----------- | ------ ]
+[   1001 | Taylor Swift         | 555-TAYSWIFT     |    25425.95 |  2015-01-01 | x      ]
+[   1002 | Megan Fox            | 800-MEGANFOX     |    19750.95 |  2016-07-15 | x      ]
+[   1003 | John Travolta        | 555-TRAVOLTA     |    64545.95 |  2015-08-22 | x      ]
+[   1004 | Jack Nicholson       | 555-JACKNICK     |    52772.95 |  2014-12-10 |        ]
